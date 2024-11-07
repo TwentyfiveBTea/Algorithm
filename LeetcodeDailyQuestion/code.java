@@ -4,6 +4,7 @@ package LeetcodeDailyQuestion;
  * @Author: TwentyFiveBTea
  * @Date: 2024/11/07 21:35
  * @Description: 3255、长度为 K 的子数组的能量值 II -- 中等
+ * @Solution: https://leetcode.cn/problems/find-the-power-of-k-size-subarrays-ii/solutions/2981172/3255-chang-du-wei-k-de-zi-shu-zu-de-neng-263s/
  */
 public class code {
     class Solution {
