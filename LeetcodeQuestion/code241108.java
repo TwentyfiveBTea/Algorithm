@@ -5,7 +5,7 @@ package LeetcodeQuestion;
  * @Date: 2024/11/08 12:54
  * @Description: 605、种花问题 -- 简单
  */
-public class code {
+public class code241108 {
     class Solution {
         public boolean canPlaceFlowers(int[] flowerbed, int n) {
             for (int i = 0; i < flowerbed.length && n > 0; ) {
