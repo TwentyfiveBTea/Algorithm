@@ -26,7 +26,6 @@ public class code241118 {
 
     class Solution2 {
         public int missingNumber(int[] nums) {
-            int ans = 0;
             Set<Integer> set = new HashSet();
 
             for (int num : nums) {
