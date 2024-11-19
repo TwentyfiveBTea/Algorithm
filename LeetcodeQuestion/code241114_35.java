@@ -6,7 +6,7 @@ package LeetcodeQuestion;
  * @Description: 35. 搜索插入位置
  * @Method: 二分查找
  */
-public class code241114 {
+public class code241114_35 {
     class Solution {
         public int searchInsert(int[] nums, int target) {
             int l = 0, h = nums.length - 1;

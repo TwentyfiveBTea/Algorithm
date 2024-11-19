@@ -6,7 +6,7 @@ package LeetcodeQuestion;
  * @Description: 658. 找到 K 个最接近的元素
  * @Method: 滑动窗口
  */
-public class code241115_2 {
+public class code241115_2_658 {
     class Solution {
         public double findMaxAverage(int[] nums, int k) {
             double ans = Integer.MIN_VALUE;

@@ -6,7 +6,7 @@ package LeetcodeDailyQuestion;
  * @Description: 3255、长度为 K 的子数组的能量值 II -- 中等
  * @Solution: https://leetcode.cn/problems/find-the-power-of-k-size-subarrays-ii/solutions/2981172/3255-chang-du-wei-k-de-zi-shu-zu-de-neng-263s/
  */
-public class code241107 {
+public class code241107_3255 {
     class Solution {
         public int[] resultsArray(int[] nums, int k) {
             // 初始化 count 为 1，表示当前递增子数组的长度

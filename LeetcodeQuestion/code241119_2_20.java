@@ -7,7 +7,7 @@ import java.util.*;
  * @Date: 2024/11/19 9:47
  * @Description: 20. 有效的括号
  */
-public class code241119_2 {
+public class code241119_2_20 {
     class Solution {
         public boolean isValid(String s) {
             Stack<Character> stack = new Stack<>();

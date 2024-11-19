@@ -5,7 +5,7 @@ package LeetcodeDailyQuestion;
  * @Date: 2024/11/13 19:27
  * @Description: 34、在排序数组中查找元素的第一个和最后一个位置
  */
-public class code241113 {
+public class code241113_34 {
     class Solution {
         public int[] searchRange(int[] nums, int target) {
             int[] ans = new int[]{-1, -1};

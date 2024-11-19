@@ -7,7 +7,7 @@ import java.util.*;
  * @Date: 2024/11/19 9:46
  * @Description: 41. 缺失的第一个正数
  */
-public class code241119 {
+public class code241119_41 {
     class Solution {
         public int firstMissingPositive(int[] nums) {
             Set<Integer> set = new HashSet();

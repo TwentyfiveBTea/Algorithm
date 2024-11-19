@@ -10,7 +10,7 @@ import java.util.*;
  * @Method: 数组
  * @Method: Set
  */
-public class code241118 {
+public class code241118_17_04 {
     class Solution {
         public int missingNumber(int[] nums) {
             int ans = 0;

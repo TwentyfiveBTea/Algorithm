@@ -6,7 +6,7 @@ package LeetcodeQuestion;
  * @Description: 3254. 长度为 K 的子数组的能量值 I
  * @Method: 滑动窗口
  */
-public class code241115 {
+public class code241115_3254 {
     class Solution {
         public int[] resultsArray(int[] nums, int k) {
             int[] results = new int[nums.length - k + 1];

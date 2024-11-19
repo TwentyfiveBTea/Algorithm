@@ -5,7 +5,7 @@ package LeetcodeQuestion;
  * @Date: 2024/11/16 21:10
  * @Description: 74. 搜索二维矩阵
  */
-public class code241116 {
+public class code241116_74 {
     class Solution {
         public boolean searchMatrix(int[][] matrix, int target) {
             int m = matrix.length;

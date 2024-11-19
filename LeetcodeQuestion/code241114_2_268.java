@@ -8,7 +8,7 @@ import java.util.Arrays;
  * @Description: 268. 丢失的数字
  * @Method: 数组
  */
-public class code241114_2 {
+public class code241114_2_268 {
     class Solution {
         public int missingNumber(int[] nums) {
             int n = nums.length;
