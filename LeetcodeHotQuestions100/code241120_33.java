@@ -26,7 +26,6 @@ public class code241120_33 {
                 l = index;
                 r = nums.length - 1;
             } else {
-                l = 0;
                 r = index - 1;
             }
 
