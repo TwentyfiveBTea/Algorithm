@@ -5,10 +5,14 @@ import java.util.List;
 /**
  * @Author: TwentyFiveBTea
  * @Date: 2024/11/21 12:38
- * @Description: 3248. 矩阵中的蛇
- * @Method: 字符串
+ * @Description: 241121
  */
-public class code241121_3248 {
+public class Code241121 {
+
+    /**
+     * @Description: 3248. 矩阵中的蛇
+     * @Method: 字符串
+     */
     class Solution {
         public int finalPositionOfSnake(int n, List<String> commands) {
             int[][] grid = new int[n][n];

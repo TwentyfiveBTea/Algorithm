@@ -3,10 +3,14 @@ package LeetcodeQuestion;
 /**
  * @Author: TwentyFiveBTea
  * @Date: 2024/11/08 12:54
- * @Description: 605、种花问题 -- 简单
+ * @Description: 241108
  */
-public class code241108_605 {
-    class Solution {
+public class Code241108 {
+
+    /**
+     * @Description: 605、种花问题
+     */
+    class Solution1 {
         public boolean canPlaceFlowers(int[] flowerbed, int n) {
             for (int i = 0; i < flowerbed.length && n > 0; ) {
                 // 判断此地块是否有花

@@ -1,13 +1,17 @@
-package LeetcodeHotQuestions100;
+package LeetcodeQuestion;
 
 /**
  * @Author: TwentyFiveBTea
- * @Date: 2024/11/20 10:42
- * @Description: 33. 搜索旋转排序数组
- * @Method: 二分查找
+ * @Date: 2024/11/20 10:40
+ * @Description: 241120
  */
-public class code241120_33 {
-    class Solution {
+public class Code241120 {
+
+    /**
+     * @Description: 33. 搜索旋转排序数组
+     * @Method: 二分查找
+     */
+    class Solution1 {
         public int search(int[] nums, int target) {
             int index = 0;
             int l = 0;

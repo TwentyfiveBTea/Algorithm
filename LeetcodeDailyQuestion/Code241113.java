@@ -3,9 +3,14 @@ package LeetcodeDailyQuestion;
 /**
  * @Author: TwentyFiveBTea
  * @Date: 2024/11/13 19:27
- * @Description: 34、在排序数组中查找元素的第一个和最后一个位置
+ * @Description: 241113
  */
-public class code241113_34 {
+public class Code241113 {
+
+    /**
+     * @Description: 34、在排序数组中查找元素的第一个和最后一个位置
+     * @Method: 二分查找
+     */
     class Solution {
         public int[] searchRange(int[] nums, int target) {
             int[] ans = new int[]{-1, -1};
@@ -23,13 +28,14 @@ public class code241113_34 {
                     l = mid + 1;
                 }
             }
-            if (nums[l]!= target) {
+            if (nums[l] != target) {
                 return ans;
             } else {
                 ans[0] = l;
 
                 // 重置左右指针
-                l = 0; r = n - 1;
+                l = 0;
+                r = n - 1;
 
                 // 第二次二分查找，确定目标值的最右位置
                 while (l < r) {

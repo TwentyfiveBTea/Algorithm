@@ -3,10 +3,15 @@ package LeetcodeQuestion;
 /**
  * @Author: TwentyFiveBTea
  * @Date: 2024/11/16 21:10
- * @Description: 74. 搜索二维矩阵
+ * @Description: 241116
  */
-public class code241116_74 {
-    class Solution {
+public class Code241116 {
+
+    /**
+     * @Description: 74. 搜索二维矩阵
+     * @Method: 二分查找
+     */
+    class Solution1 {
         public boolean searchMatrix(int[][] matrix, int target) {
             int m = matrix.length;
             int n = matrix[0].length;

@@ -3,9 +3,14 @@ package LeetcodeDailyQuestion;
 /**
  * @Author: TwentyFiveBTea
  * @Date: 2024/11/12 10:04
- * @Description: 3258. 统计满足 K 约束的子字符串数量 I
+ * @Description: 241112
  */
-public class code241112_3258 {
+public class Code241112 {
+
+    /**
+     * @Description: 3258. 统计满足 K 约束的子字符串数量 I
+     * @Method: 字符串
+     */
     class Solution {
         public int countKConstraintSubstrings(String s, int k) {
             int count = 0;
@@ -28,6 +33,7 @@ public class code241112_3258 {
                     count++;
                 }
             }
+
             return count;
         }
     }

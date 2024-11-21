@@ -1,4 +1,4 @@
-package Learning;
+package Learning.Topic.Greedy;
 
 import java.util.*;
 
@@ -6,9 +6,9 @@ import java.util.*;
 /**
  * @Author: TwentyFiveBTea
  * @Date: 2024/11/20 22:38
- * @Description:
+ * @Description: 排队打水
  */
-public class cd {
+public class AcWing_913 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

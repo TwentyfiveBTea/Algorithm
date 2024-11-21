@@ -6,12 +6,15 @@ import java.util.*;
 /**
  * @Author: TwentyFiveBTea
  * @Date: 2024/11/18 21:32
- * @Description: 17.04. 消失的数字
- * @Method: 数组
- * @Method: Set
+ * @Description: 241118
  */
-public class code241118_17_04 {
-    class Solution {
+public class Code241118 {
+
+    /**
+     * @Description: 17.04. 消失的数字
+     * @Method: 数组
+     */
+    class Solution1_1 {
         public int missingNumber(int[] nums) {
             int ans = 0;
             Arrays.sort(nums);
@@ -24,7 +27,11 @@ public class code241118_17_04 {
         }
     }
 
-    class Solution2 {
+    /**
+     * @Description: 17.04. 消失的数字
+     * @Method: Set
+     */
+    class Solution1_2 {
         public int missingNumber(int[] nums) {
             Set<Integer> set = new HashSet();
 

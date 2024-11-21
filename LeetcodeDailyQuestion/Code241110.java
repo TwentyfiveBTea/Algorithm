@@ -3,10 +3,14 @@ package LeetcodeDailyQuestion;
 /**
  * @Author: TwentyFiveBTea
  * @Date: 2024/11/10 17:30
- * @Description: 540、有序数组中的单一元素 -- 中等
- * @Solution: https://leetcode.cn/problems/single-element-in-a-sorted-array/solutions/2983947/540-you-xu-shu-zu-zhong-de-dan-yi-yuan-s-gtmv/
+ * @Description: 241110
  */
-public class code241110_540 {
+public class Code241110 {
+
+    /**
+     * @Description: 540、有序数组中的单一元素 -- 中等
+     * @Method: 二分查找
+     */
     class Solution {
         public int singleNonDuplicate(int[] nums) {
             int l = 0, r = nums.length - 1, mid = 0;
