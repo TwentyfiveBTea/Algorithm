@@ -6,6 +6,7 @@ import java.util.List;
  * @Author: TwentyFiveBTea
  * @Date: 2024/11/21 12:38
  * @Description: 3248. 矩阵中的蛇
+ * @Method: 字符串
  */
 public class code241121_3248 {
     class Solution {
