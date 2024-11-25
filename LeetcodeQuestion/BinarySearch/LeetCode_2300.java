@@ -23,7 +23,7 @@ public class LeetCode_2300 {
                     if ((double) spells[i] * potions[mid] >= success) {
                         r = mid - 1;
                         res[i] = len - mid;
-                    } else if ((double) spells[i] * potions[mid] < success) {
+                    } else {
                         l = mid + 1;
                     }
                 }
