@@ -1,17 +1,12 @@
-package LeetcodeQuestion;
+package LeetcodeQuestion.BinarySearch;
 
 /**
  * @Author: TwentyFiveBTea
  * @Date: 2024/11/20 10:40
- * @Description: 241120
+ * @Description: 33. 搜索旋转排序数组
  */
-public class Code241120 {
-
-    /**
-     * @Description: 33. 搜索旋转排序数组
-     * @Method: 二分查找
-     */
-    class Solution1 {
+public class LeetCode_33 {
+    class Solution {
         public int search(int[] nums, int target) {
             int index = 0;
             int l = 0;
