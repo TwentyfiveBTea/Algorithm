@@ -1,17 +1,11 @@
-package LeetcodeHotQuestions100;
+package LeetcodeHotQuestions100.Array;
 
 /**
  * @Author: TwentyFiveBTea
  * @Date: 2024/11/19 13:45
- * @Description: 241119
+ * @Description: 1. 两数之和
  */
-public class Code241119 {
-
-
-    /**
-     * @Description: 1. 两数之和
-     * @Method: 数组
-     */
+public class LeetCode_1 {
     class Solution {
         public int[] twoSum(int[] nums, int target) {
             for (int i = 0; i < nums.length; i++) {

@@ -1,12 +1,11 @@
-package LeetcodeHotQuestions100;
+package LeetcodeHotQuestions100.Matrix;
 
 /**
  * @Author: TwentyFiveBTea
- * @Date: 2024/11/24 18:09
+ * @Date: 2024/11/26 10:03
  * @Description: 240. 搜索二维矩阵 II
- * @Method: 矩阵
  */
-public class Code241124 {
+public class LeetCode_240 {
     class Solution {
         public boolean searchMatrix(int[][] matrix, int target) {
             int n = matrix.length;

@@ -1,16 +1,11 @@
-package LeetcodeHotQuestions100;
+package LeetcodeHotQuestions100.BinarySearch;
 
 /**
  * @Author: TwentyFiveBTea
- * @Date: 2024/11/20 10:42
- * @Description: 241120
+ * @Date: 2024/11/26 10:02
+ * @Description: 33. 搜索旋转排序数组
  */
-public class Code241120 {
-
-    /**
-     * @Description: 33. 搜索旋转排序数组
-     * @Method: 二分查找
-     */
+public class LeetCode_33 {
     class Solution {
         public int search(int[] nums, int target) {
             int index = 0;
