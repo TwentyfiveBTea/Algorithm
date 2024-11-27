@@ -1,4 +1,4 @@
-package Luogu.Training_24_11_24;
+package Luogu.Training.T_24_11_24;
 
 import java.util.Scanner;
 
