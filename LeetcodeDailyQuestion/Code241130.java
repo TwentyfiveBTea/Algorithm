@@ -24,7 +24,7 @@ public class Code241130 {
                 return false;
             }
 
-            return
+            return true;
         }
     }
 }
