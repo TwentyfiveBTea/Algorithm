@@ -3,7 +3,7 @@ package LeetcodeQuestion.DFS;
 /**
  * @Author: TwentyFiveBTea
  * @Date: 2024/12/5 20:32
- * @Description:
+ * @Description: 2684. 矩阵中移动的最大次数
  */
 public class LeetCode_2684 {
     class Solution {
