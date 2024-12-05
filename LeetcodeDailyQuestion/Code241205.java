@@ -5,7 +5,7 @@ package LeetcodeDailyQuestion;
  * @Date: 2024/12/5 11:08
  * @Description: 3001. 捕获黑皇后需要的最少移动次数
  */
-public class LeetCode241205 {
+public class Code241205 {
     class Solution {
         public int minMovesToCaptureTheQueen(int a, int b, int c, int d, int e, int f) {
             if (a == e && (c != a || (d - b) * (d - f) > 0)) {
