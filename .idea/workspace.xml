@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13bb654c-8820-4a6c-8216-07e4d2aeb1d9" name="更改" comment="2024.12.10 -- 1926. 迷宫中离入口最近的出口">
+    <list default="true" id="13bb654c-8820-4a6c-8216-07e4d2aeb1d9" name="更改" comment="2024.12.10 -- 树的重心">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning/Template/Basic/Tree_Diagram_DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Template/Basic/Tree_Diagram_DFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/Template/Basic/Tree_Diagram_BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Template/Basic/Tree_Diagram_BFS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,15 +188,7 @@
       <workItem from="1732968312366" duration="5665000" />
       <workItem from="1733117269963" duration="2112000" />
       <workItem from="1733128548720" duration="9451000" />
-      <workItem from="1733190154720" duration="27684000" />
-    </task>
-    <task id="LOCAL-00015" summary="2024.11.30 -- 3232. 判断是否可以赢得数字游戏">
-      <option name="closed" value="true" />
-      <created>1732941248530</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1732941248530</updated>
+      <workItem from="1733190154720" duration="29039000" />
     </task>
     <task id="LOCAL-00016" summary="单调栈模版">
       <option name="closed" value="true" />
@@ -582,7 +574,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733811027672</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="2024.12.10 -- 树的重心">
+      <option name="closed" value="true" />
+      <created>1733811785845</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1733811785845</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -601,7 +601,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
-    <MESSAGE value="2024.12.03 -- 797. 所有可能的路径" />
     <MESSAGE value="BFS广度优先搜索" />
     <MESSAGE value="八数码" />
     <MESSAGE value="2024.12.03 -- 200. 岛屿数量" />
@@ -626,7 +625,8 @@
     <MESSAGE value="2024.12.09 -- 1812. 判断国际象棋棋盘中一个格子的颜色" />
     <MESSAGE value="2024.12.10 -- 1091. 二进制矩阵中的最短路径" />
     <MESSAGE value="2024.12.10 -- 1926. 迷宫中离入口最近的出口" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.12.10 -- 1926. 迷宫中离入口最近的出口" />
+    <MESSAGE value="2024.12.10 -- 树的重心" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.12.10 -- 树的重心" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
