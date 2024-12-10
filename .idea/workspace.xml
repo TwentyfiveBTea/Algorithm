@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="13bb654c-8820-4a6c-8216-07e4d2aeb1d9" name="更改" comment="2024.12.10 -- 1926. 迷宫中离入口最近的出口">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetcodeQuestion/BFS/LeetCode_1091.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeQuestion/BFS/LeetCode_1091.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning/Template/Basic/Tree_Diagram_DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Template/Basic/Tree_Diagram_DFS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,31 +188,7 @@
       <workItem from="1732968312366" duration="5665000" />
       <workItem from="1733117269963" duration="2112000" />
       <workItem from="1733128548720" duration="9451000" />
-      <workItem from="1733190154720" duration="26688000" />
-    </task>
-    <task id="LOCAL-00012" summary="2024.11.28 -- 3360. 移除石头游戏">
-      <option name="closed" value="true" />
-      <created>1732809081944</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1732809081944</updated>
-    </task>
-    <task id="LOCAL-00013" summary="2024.11.29 -- 58. 最后一个单词的长度">
-      <option name="closed" value="true" />
-      <created>1732895752013</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1732895752013</updated>
-    </task>
-    <task id="LOCAL-00014" summary="2024.11.30 -- 3232. 判断是否可以赢得数字游戏">
-      <option name="closed" value="true" />
-      <created>1732941236785</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1732941236785</updated>
+      <workItem from="1733190154720" duration="27684000" />
     </task>
     <task id="LOCAL-00015" summary="2024.11.30 -- 3232. 判断是否可以赢得数字游戏">
       <option name="closed" value="true" />
@@ -582,7 +558,31 @@
       <option name="project" value="LOCAL" />
       <updated>1733799484108</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="2024.12.10 -- 1091. 二进制矩阵中的最短路径">
+      <option name="closed" value="true" />
+      <created>1733801523683</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1733801523683</updated>
+    </task>
+    <task id="LOCAL-00062" summary="2024.12.10 -- 1091. 二进制矩阵中的最短路径">
+      <option name="closed" value="true" />
+      <created>1733811014443</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1733811014443</updated>
+    </task>
+    <task id="LOCAL-00063" summary="2024.12.10 -- 1926. 迷宫中离入口最近的出口">
+      <option name="closed" value="true" />
+      <created>1733811027672</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1733811027672</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -601,7 +601,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
-    <MESSAGE value="2024.12.03 -- 113. 路径总和 II" />
     <MESSAGE value="2024.12.03 -- 797. 所有可能的路径" />
     <MESSAGE value="BFS广度优先搜索" />
     <MESSAGE value="八数码" />
@@ -625,6 +624,7 @@
     <MESSAGE value="2024.12.07 -- 模拟2" />
     <MESSAGE value="版本文件管理" />
     <MESSAGE value="2024.12.09 -- 1812. 判断国际象棋棋盘中一个格子的颜色" />
+    <MESSAGE value="2024.12.10 -- 1091. 二进制矩阵中的最短路径" />
     <MESSAGE value="2024.12.10 -- 1926. 迷宫中离入口最近的出口" />
     <option name="LAST_COMMIT_MESSAGE" value="2024.12.10 -- 1926. 迷宫中离入口最近的出口" />
   </component>
