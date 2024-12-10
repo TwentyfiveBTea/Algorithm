@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13bb654c-8820-4a6c-8216-07e4d2aeb1d9" name="更改" comment="2024.12.10 -- 树与图 -- BFS">
+    <list default="true" id="13bb654c-8820-4a6c-8216-07e4d2aeb1d9" name="更改" comment="2024.12.10 -- 01背包">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning/Template/Basic/Bag_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning/Template/Basic/Bag_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,15 +187,7 @@
       <workItem from="1732968312366" duration="5665000" />
       <workItem from="1733117269963" duration="2112000" />
       <workItem from="1733128548720" duration="9451000" />
-      <workItem from="1733190154720" duration="29844000" />
-    </task>
-    <task id="LOCAL-00017" summary="2024.11.30 -- 739. 每日温度">
-      <option name="closed" value="true" />
-      <created>1732968461619</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1732968461619</updated>
+      <workItem from="1733190154720" duration="30743000" />
     </task>
     <task id="LOCAL-00018" summary="2024.11.30 -- 1475. 商品折扣后的最终价格">
       <option name="closed" value="true" />
@@ -582,7 +573,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733817708843</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="2024.12.10 -- 01背包">
+      <option name="closed" value="true" />
+      <created>1733835550673</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1733835550673</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -601,7 +600,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
-    <MESSAGE value="八数码" />
     <MESSAGE value="2024.12.03 -- 200. 岛屿数量" />
     <MESSAGE value="2024.12.03 -- 695. 岛屿的最大面积" />
     <MESSAGE value="2024.12.04 -- 面试题 16.19. 水域大小" />
@@ -626,7 +624,8 @@
     <MESSAGE value="2024.12.10 -- 1926. 迷宫中离入口最近的出口" />
     <MESSAGE value="2024.12.10 -- 树的重心" />
     <MESSAGE value="2024.12.10 -- 树与图 -- BFS" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.12.10 -- 树与图 -- BFS" />
+    <MESSAGE value="2024.12.10 -- 01背包" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.12.10 -- 01背包" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
