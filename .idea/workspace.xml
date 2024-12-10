@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13bb654c-8820-4a6c-8216-07e4d2aeb1d9" name="更改" comment="版本文件管理" />
+    <list default="true" id="13bb654c-8820-4a6c-8216-07e4d2aeb1d9" name="更改" comment="2024.12.09 -- 1812. 判断国际象棋棋盘中一个格子的颜色">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetcodeQuestion/BFS/LeetCode_1926.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeQuestion/BFS/LeetCode_1926.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +44,7 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2oWltTq0gPczG617MqorIhwAvnQ" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -185,15 +188,7 @@
       <workItem from="1732968312366" duration="5665000" />
       <workItem from="1733117269963" duration="2112000" />
       <workItem from="1733128548720" duration="9451000" />
-      <workItem from="1733190154720" duration="22788000" />
-    </task>
-    <task id="LOCAL-00010" summary="差分">
-      <option name="closed" value="true" />
-      <created>1732204130147</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1732204130147</updated>
+      <workItem from="1733190154720" duration="24879000" />
     </task>
     <task id="LOCAL-00011" summary="2024.11.22 -- 3233. 统计不是特殊数字的数字数量">
       <option name="closed" value="true" />
@@ -579,7 +574,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733546622023</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="2024.12.09 -- 1812. 判断国际象棋棋盘中一个格子的颜色">
+      <option name="closed" value="true" />
+      <created>1733738390327</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1733738390328</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -598,7 +601,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
-    <MESSAGE value="2024.12.03 -- 94. 二叉树的中序遍历" />
     <MESSAGE value="2024.12.03 -- 112. 路径总和" />
     <MESSAGE value="2024.12.03 -- 113. 路径总和 II" />
     <MESSAGE value="2024.12.03 -- 797. 所有可能的路径" />
@@ -623,7 +625,8 @@
     <MESSAGE value="2024.12.06 -- 682. 棒球比赛" />
     <MESSAGE value="2024.12.07 -- 模拟2" />
     <MESSAGE value="版本文件管理" />
-    <option name="LAST_COMMIT_MESSAGE" value="版本文件管理" />
+    <MESSAGE value="2024.12.09 -- 1812. 判断国际象棋棋盘中一个格子的颜色" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.12.09 -- 1812. 判断国际象棋棋盘中一个格子的颜色" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
