@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="196468da-32b0-4331-8d1c-cc8544663e28" name="更改" comment="2024.12.10 -- 多重背包问题">
+    <list default="true" id="196468da-32b0-4331-8d1c-cc8544663e28" name="更改" comment="2024.12.12 -- 1093. 大样本统计">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetcodeDailyQuestion/Code241213.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeDailyQuestion/Code241213.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,10 +33,20 @@
   }
 }]]></component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="2024.12.12 -- 1093. 大样本统计">
+      <option name="closed" value="true" />
+      <created>1734009383621</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734009383621</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024.12.10 -- 多重背包问题" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.12.10 -- 多重背包问题" />
+    <MESSAGE value="2024.12.12 -- 1093. 大样本统计" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.12.12 -- 1093. 大样本统计" />
   </component>
 </project>
