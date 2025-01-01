@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="196468da-32b0-4331-8d1c-cc8544663e28" name="更改" comment="2024.12.12 -- 1093. 大样本统计">
+    <list default="true" id="196468da-32b0-4331-8d1c-cc8544663e28" name="更改" comment="2024.12.13 -- 3264. K 次乘运算后的最终数组 I">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetcodeDailyQuestion/Code241213.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetcodeDailyQuestion/Code241213.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,15 +22,50 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TwentyfiveBTea"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TwentyfiveBTea/Algorithm.git",
+    "accountId": "d645a187-4ea5-4cca-9fc8-cf785bc4dc41"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2r1TK7teBSBfmxxpeiO7rtKSZAo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/apple/Desktop/project/Algorithm/Algorithm",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="2024.12.12 -- 1093. 大样本统计">
       <option name="closed" value="true" />
@@ -41,12 +75,32 @@
       <option name="project" value="LOCAL" />
       <updated>1734009383621</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2024.12.13 -- 3264. K 次乘运算后的最终数组 I">
+      <option name="closed" value="true" />
+      <created>1734069047339</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734069047339</updated>
+    </task>
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="196468da-32b0-4331-8d1c-cc8544663e28" name="更改" comment="2024.12.13 -- 3264. K 次乘运算后的最终数组 I" />
+      <created>1735725516468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735725516468</updated>
+      <workItem from="1735725521335" duration="108000" />
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2024.12.10 -- 多重背包问题" />
     <MESSAGE value="2024.12.12 -- 1093. 大样本统计" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.12.12 -- 1093. 大样本统计" />
+    <MESSAGE value="2024.12.13 -- 3264. K 次乘运算后的最终数组 I" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.12.13 -- 3264. K 次乘运算后的最终数组 I" />
   </component>
 </project>
