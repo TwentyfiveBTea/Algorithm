@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13bb654c-8820-4a6c-8216-07e4d2aeb1d9" name="更改" comment="2024.12.10 -- 01背包">
+    <list default="true" id="196468da-32b0-4331-8d1c-cc8544663e28" name="更改" comment="2024.12.13 -- 3264. K 次乘运算后的最终数组 I">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ChangesViewManager">
-    <option name="groupingKeys">
-      <option value="module" />
-    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,22 +22,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;TwentyfiveBTea&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TwentyfiveBTea"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/TwentyfiveBTea/Algorithm.git&quot;,
-    &quot;accountId&quot;: &quot;d645a187-4ea5-4cca-9fc8-cf785bc4dc41&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TwentyfiveBTea/Algorithm.git",
+    "accountId": "d645a187-4ea5-4cca-9fc8-cf785bc4dc41"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2oWltTq0gPczG617MqorIhwAvnQ" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2r1TK7teBSBfmxxpeiO7rtKSZAo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -56,103 +52,11 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/apple/Desktop/project/Algorithm/Algorithm",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.Code_10.executor": "Run",
-    "应用程序.Code_6.executor": "Run",
-    "应用程序.Code_7.executor": "Run",
-    "应用程序.Code_8.executor": "Run",
-    "应用程序.Code_9.executor": "Run"
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="LeetcodeQuestion.Simulate" />
-      <recent name="LeetcodeQuestion.Hash" />
-      <recent name="LeetcodeQuestion.DFS" />
-    </key>
-  </component>
-  <component name="RunManager" selected="应用程序.Code_10">
-    <configuration name="Code_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lanqiao.Simulate_2.Code_10" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lanqiao.Simulate_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lanqiao.Simulate_2.Code_6" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lanqiao.Simulate_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lanqiao.Simulate_2.Code_7" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lanqiao.Simulate_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lanqiao.Simulate_2.Code_8" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lanqiao.Simulate_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Code_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lanqiao.Simulate_2.Code_9" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lanqiao.Simulate_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="应用程序.Code_10" />
-        <item itemvalue="应用程序.Code_9" />
-        <item itemvalue="应用程序.Code_8" />
-        <item itemvalue="应用程序.Code_7" />
-        <item itemvalue="应用程序.Code_6" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -163,472 +67,40 @@
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="2024.12.12 -- 1093. 大样本统计">
+      <option name="closed" value="true" />
+      <created>1734009383621</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734009383621</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2024.12.13 -- 3264. K 次乘运算后的最终数组 I">
+      <option name="closed" value="true" />
+      <created>1734069047339</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734069047339</updated>
+    </task>
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="13bb654c-8820-4a6c-8216-07e4d2aeb1d9" name="更改" comment="" />
-      <created>1730993428461</created>
+      <changelist id="196468da-32b0-4331-8d1c-cc8544663e28" name="更改" comment="2024.12.13 -- 3264. K 次乘运算后的最终数组 I" />
+      <created>1735725516468</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1730993428461</updated>
-      <workItem from="1730993429478" duration="24000" />
-      <workItem from="1731230398508" duration="4638000" />
-      <workItem from="1731377017307" duration="1897000" />
-      <workItem from="1731409636722" duration="91000" />
-      <workItem from="1731497175891" duration="4296000" />
-      <workItem from="1731551670775" duration="1658000" />
-      <workItem from="1731669483459" duration="777000" />
-      <workItem from="1731759808866" duration="3104000" />
-      <workItem from="1732211553554" duration="246000" />
-      <workItem from="1732808502821" duration="386000" />
-      <workItem from="1732877567536" duration="422000" />
-      <workItem from="1732891492550" duration="45000" />
-      <workItem from="1732895672017" duration="688000" />
-      <workItem from="1732941190782" duration="766000" />
-      <workItem from="1732965557929" duration="881000" />
-      <workItem from="1732968312366" duration="5665000" />
-      <workItem from="1733117269963" duration="2112000" />
-      <workItem from="1733128548720" duration="9451000" />
-      <workItem from="1733190154720" duration="30743000" />
+      <updated>1735725516468</updated>
+      <workItem from="1735725521335" duration="108000" />
     </task>
-    <task id="LOCAL-00018" summary="2024.11.30 -- 1475. 商品折扣后的最终价格">
-      <option name="closed" value="true" />
-      <created>1732969755069</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1732969755069</updated>
-    </task>
-    <task id="LOCAL-00019" summary="2024.11.31 -- 962. 最大宽度坡">
-      <option name="closed" value="true" />
-      <created>1733045962870</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1733045962870</updated>
-    </task>
-    <task id="LOCAL-00020" summary="并查集">
-      <option name="closed" value="true" />
-      <created>1733061475727</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1733061475727</updated>
-    </task>
-    <task id="LOCAL-00021" summary="2024.12.01 -- 1971. 寻找图中是否存在路径">
-      <option name="closed" value="true" />
-      <created>1733063550898</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1733063550898</updated>
-    </task>
-    <task id="LOCAL-00022" summary="2024.12.02 -- 684. 冗余连接">
-      <option name="closed" value="true" />
-      <created>1733120339754</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1733120339755</updated>
-    </task>
-    <task id="LOCAL-00023" summary="堆">
-      <option name="closed" value="true" />
-      <created>1733132809208</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1733132809208</updated>
-    </task>
-    <task id="LOCAL-00024" summary="2024.12.02 -- LCR 159. 库存管理 III">
-      <option name="closed" value="true" />
-      <created>1733133977563</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1733133977563</updated>
-    </task>
-    <task id="LOCAL-00025" summary="2024.12.02 -- 215. 数组中的第K个最大元素">
-      <option name="closed" value="true" />
-      <created>1733139285124</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1733139285124</updated>
-    </task>
-    <task id="LOCAL-00026" summary="2024.12.02 -- 2558. 从数量最多的堆取走礼物">
-      <option name="closed" value="true" />
-      <created>1733140818239</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1733140818239</updated>
-    </task>
-    <task id="LOCAL-00027" summary="DFS 深度优先搜索">
-      <option name="closed" value="true" />
-      <created>1733143036109</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1733143036109</updated>
-    </task>
-    <task id="LOCAL-00028" summary="DFS -- n皇后问题">
-      <option name="closed" value="true" />
-      <created>1733148189968</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1733148189968</updated>
-    </task>
-    <task id="LOCAL-00029" summary="2024.12.03 -- 51. N 皇后">
-      <option name="closed" value="true" />
-      <created>1733190348297</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1733190348297</updated>
-    </task>
-    <task id="LOCAL-00030" summary="2024.12.03 -- 每日一题 -- 3274. 检查棋盘方格颜色是否相同">
-      <option name="closed" value="true" />
-      <created>1733190452973</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1733190452973</updated>
-    </task>
-    <task id="LOCAL-00031" summary="2024.12.03 -- 94. 二叉树的中序遍历">
-      <option name="closed" value="true" />
-      <created>1733191341540</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1733191341540</updated>
-    </task>
-    <task id="LOCAL-00032" summary="2024.12.03 -- 112. 路径总和">
-      <option name="closed" value="true" />
-      <created>1733192647117</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1733192647117</updated>
-    </task>
-    <task id="LOCAL-00033" summary="2024.12.03 -- 113. 路径总和 II">
-      <option name="closed" value="true" />
-      <created>1733193595350</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1733193595350</updated>
-    </task>
-    <task id="LOCAL-00034" summary="2024.12.03 -- 797. 所有可能的路径">
-      <option name="closed" value="true" />
-      <created>1733195887934</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1733195887934</updated>
-    </task>
-    <task id="LOCAL-00035" summary="BFS广度优先搜索">
-      <option name="closed" value="true" />
-      <created>1733222343134</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1733222343134</updated>
-    </task>
-    <task id="LOCAL-00036" summary="八数码">
-      <option name="closed" value="true" />
-      <created>1733228031010</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1733228031010</updated>
-    </task>
-    <task id="LOCAL-00037" summary="2024.12.03 -- 200. 岛屿数量">
-      <option name="closed" value="true" />
-      <created>1733229335347</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1733229335347</updated>
-    </task>
-    <task id="LOCAL-00038" summary="2024.12.03 -- 200. 岛屿数量">
-      <option name="closed" value="true" />
-      <created>1733229457282</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1733229457282</updated>
-    </task>
-    <task id="LOCAL-00039" summary="2024.12.03 -- 695. 岛屿的最大面积">
-      <option name="closed" value="true" />
-      <created>1733231574190</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1733231574190</updated>
-    </task>
-    <task id="LOCAL-00040" summary="2024.12.04 -- 面试题 16.19. 水域大小">
-      <option name="closed" value="true" />
-      <created>1733309089619</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1733309089619</updated>
-    </task>
-    <task id="LOCAL-00041" summary="2024.12.05 -- 3001. 捕获黑皇后需要的最少移动次数">
-      <option name="closed" value="true" />
-      <created>1733368167100</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1733368167100</updated>
-    </task>
-    <task id="LOCAL-00042" summary="2024.12.05 -- 463. 岛屿的周长">
-      <option name="closed" value="true" />
-      <created>1733371663131</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1733371663131</updated>
-    </task>
-    <task id="LOCAL-00043" summary="2024.12.05 -- 2658. 网格图中鱼的最大数目">
-      <option name="closed" value="true" />
-      <created>1733373535379</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1733373535379</updated>
-    </task>
-    <task id="LOCAL-00044" summary="2024.12.05 -- 3001. 捕获黑皇后需要的最少移动次数">
-      <option name="closed" value="true" />
-      <created>1733391046134</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1733391046134</updated>
-    </task>
-    <task id="LOCAL-00045" summary="2024.12.05 -- 1034. 边界着色">
-      <option name="closed" value="true" />
-      <created>1733391065840</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1733391065840</updated>
-    </task>
-    <task id="LOCAL-00046" summary="2024.12.05 -- 1020. 飞地的数量">
-      <option name="closed" value="true" />
-      <created>1733394518296</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1733394518296</updated>
-    </task>
-    <task id="LOCAL-00047" summary="2024.12.05 -- 2684. 矩阵中移动的最大次数">
-      <option name="closed" value="true" />
-      <created>1733401988710</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1733401988710</updated>
-    </task>
-    <task id="LOCAL-00048" summary="2024.12.05 -- 2684. 矩阵中移动的最大次数">
-      <option name="closed" value="true" />
-      <created>1733403087785</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1733403087785</updated>
-    </task>
-    <task id="LOCAL-00049" summary="2024.12.05 -- 136. 只出现一次的数字">
-      <option name="closed" value="true" />
-      <created>1733405379616</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1733405379616</updated>
-    </task>
-    <task id="LOCAL-00050" summary="2024.12.05 -- 66. 加一">
-      <option name="closed" value="true" />
-      <created>1733406430119</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1733406430119</updated>
-    </task>
-    <task id="LOCAL-00051" summary="2024.12.06 -- 999. 可以被一步捕获的棋子数">
-      <option name="closed" value="true" />
-      <created>1733462141445</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1733462141445</updated>
-    </task>
-    <task id="LOCAL-00052" summary="2024.12.06 -- 3364. 最小正和子数组">
-      <option name="closed" value="true" />
-      <created>1733464058759</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1733464058759</updated>
-    </task>
-    <task id="LOCAL-00053" summary="2024.12.06 -- 169. 多数元素">
-      <option name="closed" value="true" />
-      <created>1733465855122</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1733465855122</updated>
-    </task>
-    <task id="LOCAL-00054" summary="2024.12.06 -- 485. 最大连续 1 的个数">
-      <option name="closed" value="true" />
-      <created>1733466248690</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1733466248690</updated>
-    </task>
-    <task id="LOCAL-00055" summary="2024.12.06 -- 495. 提莫攻击">
-      <option name="closed" value="true" />
-      <created>1733477104543</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1733477104543</updated>
-    </task>
-    <task id="LOCAL-00056" summary="2024.12.06 -- 682. 棒球比赛">
-      <option name="closed" value="true" />
-      <created>1733478174198</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1733478174198</updated>
-    </task>
-    <task id="LOCAL-00057" summary="2024.12.07 -- 模拟2">
-      <option name="closed" value="true" />
-      <created>1733546474537</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1733546474537</updated>
-    </task>
-    <task id="LOCAL-00058" summary="版本文件管理">
-      <option name="closed" value="true" />
-      <created>1733546622023</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1733546622023</updated>
-    </task>
-    <task id="LOCAL-00059" summary="2024.12.09 -- 1812. 判断国际象棋棋盘中一个格子的颜色">
-      <option name="closed" value="true" />
-      <created>1733738390327</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1733738390328</updated>
-    </task>
-    <task id="LOCAL-00060" summary="2024.12.10 -- 1926. 迷宫中离入口最近的出口">
-      <option name="closed" value="true" />
-      <created>1733799484108</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1733799484108</updated>
-    </task>
-    <task id="LOCAL-00061" summary="2024.12.10 -- 1091. 二进制矩阵中的最短路径">
-      <option name="closed" value="true" />
-      <created>1733801523683</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1733801523683</updated>
-    </task>
-    <task id="LOCAL-00062" summary="2024.12.10 -- 1091. 二进制矩阵中的最短路径">
-      <option name="closed" value="true" />
-      <created>1733811014443</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1733811014443</updated>
-    </task>
-    <task id="LOCAL-00063" summary="2024.12.10 -- 1926. 迷宫中离入口最近的出口">
-      <option name="closed" value="true" />
-      <created>1733811027672</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1733811027672</updated>
-    </task>
-    <task id="LOCAL-00064" summary="2024.12.10 -- 树的重心">
-      <option name="closed" value="true" />
-      <created>1733811785845</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1733811785845</updated>
-    </task>
-    <task id="LOCAL-00065" summary="2024.12.10 -- 树与图 -- BFS">
-      <option name="closed" value="true" />
-      <created>1733817708843</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1733817708843</updated>
-    </task>
-    <task id="LOCAL-00066" summary="2024.12.10 -- 01背包">
-      <option name="closed" value="true" />
-      <created>1733835550673</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1733835550673</updated>
-    </task>
-    <option name="localTasksCounter" value="67" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT_PROFILE" value="Project Default" />
-    <MESSAGE value="2024.12.03 -- 200. 岛屿数量" />
-    <MESSAGE value="2024.12.03 -- 695. 岛屿的最大面积" />
-    <MESSAGE value="2024.12.04 -- 面试题 16.19. 水域大小" />
-    <MESSAGE value="2024.12.05 -- 463. 岛屿的周长" />
-    <MESSAGE value="2024.12.05 -- 2658. 网格图中鱼的最大数目" />
-    <MESSAGE value="2024.12.05 -- 3001. 捕获黑皇后需要的最少移动次数" />
-    <MESSAGE value="2024.12.05 -- 1034. 边界着色" />
-    <MESSAGE value="2024.12.05 -- 1020. 飞地的数量" />
-    <MESSAGE value="2024.12.05 -- 2684. 矩阵中移动的最大次数" />
-    <MESSAGE value="2024.12.05 -- 136. 只出现一次的数字" />
-    <MESSAGE value="2024.12.05 -- 66. 加一" />
-    <MESSAGE value="2024.12.06 -- 999. 可以被一步捕获的棋子数" />
-    <MESSAGE value="2024.12.06 -- 3364. 最小正和子数组" />
-    <MESSAGE value="2024.12.06 -- 169. 多数元素" />
-    <MESSAGE value="2024.12.06 -- 485. 最大连续 1 的个数" />
-    <MESSAGE value="2024.12.06 -- 495. 提莫攻击" />
-    <MESSAGE value="2024.12.06 -- 682. 棒球比赛" />
-    <MESSAGE value="2024.12.07 -- 模拟2" />
-    <MESSAGE value="版本文件管理" />
-    <MESSAGE value="2024.12.09 -- 1812. 判断国际象棋棋盘中一个格子的颜色" />
-    <MESSAGE value="2024.12.10 -- 1091. 二进制矩阵中的最短路径" />
-    <MESSAGE value="2024.12.10 -- 1926. 迷宫中离入口最近的出口" />
-    <MESSAGE value="2024.12.10 -- 树的重心" />
-    <MESSAGE value="2024.12.10 -- 树与图 -- BFS" />
-    <MESSAGE value="2024.12.10 -- 01背包" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024.12.10 -- 01背包" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+    <MESSAGE value="2024.12.10 -- 多重背包问题" />
+    <MESSAGE value="2024.12.12 -- 1093. 大样本统计" />
+    <MESSAGE value="2024.12.13 -- 3264. K 次乘运算后的最终数组 I" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024.12.13 -- 3264. K 次乘运算后的最终数组 I" />
   </component>
 </project>
