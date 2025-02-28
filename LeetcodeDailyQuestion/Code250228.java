@@ -1,6 +1,7 @@
 package LeetcodeDailyQuestion;
 
 import java.util.*;
+import javafx.util.Pair;
 
 /**
  * @Author: TwentyFiveBTea
