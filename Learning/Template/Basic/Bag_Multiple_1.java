@@ -5,9 +5,9 @@ import java.util.*;
 /**
  * @Author: TwentyFiveBTea
  * @Date: 2024/12/10 22:11
- * @Description: 多重背包问题
+ * @Description: 多重背包问题 1
  */
-public class Bag_Multiple {
+public class Bag_Multiple_1 {
     public static void main(String[] args) {
         int N = 110;
         int[] v = new int[N];
